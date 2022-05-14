@@ -1,0 +1,10 @@
+23:29:48.366 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+23:29:48.380 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+23:29:48.381 [main] INFO  programmerzamannow.logging.LevelTest - Info
+23:29:48.385 [main] WARN  programmerzamannow.logging.LevelTest - Warn
+23:29:48.386 [main] ERROR programmerzamannow.logging.LevelTest - Error
+23:34:27.566 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+23:34:27.579 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+23:34:27.581 [main] INFO  programmerzamannow.logging.LevelTest - Info
+23:34:27.595 [main] WARN  programmerzamannow.logging.LevelTest - Warn
+23:34:27.598 [main] ERROR programmerzamannow.logging.LevelTest - Error

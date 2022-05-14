@@ -1,0 +1,18 @@
+2022-05-14 16:01:49.523 [main] TRACE programmerzamannow.logging.LevelTest - Trace
+2022-05-14 16:01:49.538 [main] DEBUG programmerzamannow.logging.LevelTest - Debug
+2022-05-14 16:01:49.544 [main] INFO  programmerzamannow.logging.LevelTest - Info
+2022-05-14 16:01:49.556 [main] WARN  programmerzamannow.logging.LevelTest - Warn
+2022-05-14 16:01:49.559 [main] ERROR programmerzamannow.logging.LevelTest - Error
+2022-05-14 23:49:47.255 [main] INFO  p.logging.MyRepository - 32cd78d4-a2cf-4cb4-9e34-e21046d60c43 - Repository Save
+2022-05-14 23:51:32.691 [main] INFO  p.logging.MyController - 0835bc88-7f44-4e3c-88da-30dc09fad6e2 - Controller Save
+2022-05-14 23:51:32.734 [main] INFO  programmerzamannow.logging.MyService - 0835bc88-7f44-4e3c-88da-30dc09fad6e2 - Service Save
+2022-05-14 23:51:32.736 [main] INFO  p.logging.MyRepository - 0835bc88-7f44-4e3c-88da-30dc09fad6e2 - Repository Save
+2022-05-14 23:53:42.992 [main] INFO  p.logging.MyController - [] - c4165985-1ba3-4c17-a6b5-85435ae6b393 - Controller Save
+2022-05-14 23:53:43.009 [main] INFO  programmerzamannow.logging.MyService - [] - c4165985-1ba3-4c17-a6b5-85435ae6b393 - Service Save
+2022-05-14 23:53:43.011 [main] INFO  p.logging.MyRepository - [] - c4165985-1ba3-4c17-a6b5-85435ae6b393 - Repository Save
+2022-05-14 23:55:59.806 [main] INFO  p.logging.MyController - [2b22ca3e-fd92-417c-aa07-06a5eb64a7f0] - 2b22ca3e-fd92-417c-aa07-06a5eb64a7f0 - Controller Save
+2022-05-14 23:55:59.838 [main] INFO  programmerzamannow.logging.MyService - [2b22ca3e-fd92-417c-aa07-06a5eb64a7f0] - 2b22ca3e-fd92-417c-aa07-06a5eb64a7f0 - Service Save
+2022-05-14 23:55:59.839 [main] INFO  p.logging.MyRepository - [2b22ca3e-fd92-417c-aa07-06a5eb64a7f0] - 2b22ca3e-fd92-417c-aa07-06a5eb64a7f0 - Repository Save
+2022-05-14 23:58:31.237 [main] INFO  p.logging.MyController - [7bdf25a5-2a1a-4643-92c4-29b9bca6910a] - Controller Save
+2022-05-14 23:58:31.242 [main] INFO  programmerzamannow.logging.MyService - [7bdf25a5-2a1a-4643-92c4-29b9bca6910a] - Service Save
+2022-05-14 23:58:31.243 [main] INFO  p.logging.MyRepository - [7bdf25a5-2a1a-4643-92c4-29b9bca6910a] - Repository Save
